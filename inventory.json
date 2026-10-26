@@ -1,6 +1,6 @@
 {
   "dealership": "Jim Pattison Hyundai Northshore",
-  "generated_at": "2026-10-25T19:00:30",
+  "generated_at": "2026-10-25T19:04:46",
   "vehicle_count": 116,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -401,7 +401,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "new",
-      "price": 39617.0,
+      "price": 40117.0,
       "price_currency": "CAD"
     },
     {
@@ -412,7 +412,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "new",
-      "price": 42317.0,
+      "price": 42817.0,
       "price_currency": "CAD"
     },
     {
@@ -423,7 +423,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "new",
-      "price": 35617.0,
+      "price": 36117.0,
       "price_currency": "CAD"
     },
     {
@@ -632,7 +632,7 @@
       "make": "Hyundai",
       "model": "Sonata",
       "condition": "new",
-      "price": 38442.0,
+      "price": 39442.0,
       "price_currency": "CAD"
     },
     {
@@ -643,7 +643,7 @@
       "make": "Hyundai",
       "model": "Sonata",
       "condition": "new",
-      "price": 38317.0,
+      "price": 39317.0,
       "price_currency": "CAD"
     },
     {
@@ -654,7 +654,7 @@
       "make": "Hyundai",
       "model": "Tucson Hybrid",
       "condition": "new",
-      "price": 50967.0,
+      "price": 51467.0,
       "price_currency": "CAD"
     },
     {
@@ -676,7 +676,7 @@
       "make": "Hyundai",
       "model": "Tucson Hybrid",
       "condition": "new",
-      "price": 50967.0,
+      "price": 51467.0,
       "price_currency": "CAD"
     },
     {
@@ -819,7 +819,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "new",
-      "price": 41967.0,
+      "price": 42467.0,
       "price_currency": "CAD"
     },
     {
