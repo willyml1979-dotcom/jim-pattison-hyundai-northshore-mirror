@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Hyundai Northshore",
-  "generated_at": "2026-10-26T04:18:35",
-  "vehicle_count": 116,
+  "generated_at": "2026-11-16T22:37:51",
+  "vehicle_count": 108,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -17,28 +17,6 @@
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/new/3b3dbd1a39e5.html",
       "condition": "new",
       "price": 33988.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Hyundai Tucson Sun & Leather Package / One Owner, No Accidents!",
-      "vin": "KM8J3CA48LU274697",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/09f7ef2f596a.html",
-      "year": 2020,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 22988.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Kia Seltos EX No Accidents, Service Records!",
-      "vin": "KNDERCAA5M7114058",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/514838d8a59b.html",
-      "year": 2021,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "used",
-      "price": 18988.0,
       "price_currency": "CAD"
     },
     {
@@ -64,28 +42,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Hyundai Kona Essential AWD Local One Owner, Service Records!",
-      "vin": "KM8K1CAB9PU991351",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/dcf984ee5064.html",
-      "year": 2023,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "used",
-      "price": 20388.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Hyundai Tucson Essential | FWD | One Owner | Great on gas!",
-      "vin": "KM8JB3AE3PU180874",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/8ffd1447c31a.html",
-      "year": 2023,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 21188.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Hyundai Santa Fe Luxury AWD | Leather | Top Safety Features",
       "vin": "5NMP4DGL9RH046756",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/bee8b66e1144.html",
@@ -97,17 +53,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Volvo XC40 Recharge Pure Electric Pure Twin eAWD Plus | Panoramic Sunroof",
-      "vin": "YV4ER3XL1R2258507",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/e4847432f99a.html",
-      "year": 2024,
-      "make": "Volvo",
-      "model": "XC40 Recharge Pure Electric Pure Twin eAWD Plus",
-      "condition": "used",
-      "price": 38288.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Hyundai Santa Fe Ultimate Calligraphy l DEMO CLEARANCE SPECIAL!",
       "vin": "5NMP5DGL2SH118819",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/1d2bda84af92.html",
@@ -116,17 +61,6 @@
       "model": "Santa Fe Ultimate Calligraphy l DEMO CLEARANCE SPECIAL!",
       "condition": "used",
       "price": 46688.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Hyundai Tucson Preferred Trend | Leather | Panoramic Moonroof!",
-      "vin": "3KMJCCDE7SE025245",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/d131744c77e0.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 30988.0,
       "price_currency": "CAD"
     },
     {
@@ -185,17 +119,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Elantra Essential / DEMO CLEARANCE SPECIAL! / Accessories!",
-      "vin": "KMHLM4DGXTU101927",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/e794c30430e3.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 22888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Elantra Preferred | No Accident | Like New",
       "vin": "KMHLM4DG9TU206104",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/748132f6f372.html",
@@ -215,17 +138,6 @@
       "model": "Palisade Hybrid",
       "condition": "used",
       "price": 61088.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Preferred | AWD | No Accidents!",
-      "vin": "KM8JBCDE3TU451891",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/5dd1e07e26f4.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 32988.0,
       "price_currency": "CAD"
     },
     {
