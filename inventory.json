@@ -1,6 +1,6 @@
 {
   "dealership": "Jim Pattison Hyundai Northshore",
-  "generated_at": "2026-11-18T08:12:56",
+  "generated_at": "2026-11-18T16:52:21",
   "vehicle_count": 118,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -38,7 +38,7 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
-      "price": 21388.0,
+      "price": 21188.0,
       "price_currency": "CAD"
     },
     {
@@ -49,7 +49,7 @@
       "make": "Nissan",
       "model": "Pathfinder",
       "condition": "used",
-      "price": 34788.0,
+      "price": 33988.0,
       "price_currency": "CAD"
     },
     {
@@ -126,7 +126,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 30688.0,
+      "price": 29888.0,
       "price_currency": "CAD"
     },
     {
@@ -137,7 +137,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 30988.0,
+      "price": 30788.0,
       "price_currency": "CAD"
     },
     {
@@ -247,7 +247,7 @@
       "make": "Hyundai",
       "model": "Venue",
       "condition": "used",
-      "price": 22988.0,
+      "price": 22788.0,
       "price_currency": "CAD"
     },
     {
