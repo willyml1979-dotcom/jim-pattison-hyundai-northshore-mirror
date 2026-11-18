@@ -7,7 +7,7 @@ Jim Pattison Hyundai - Northshore is a  dealership in North Vancouver. This site
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/ and https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/new/ (about 108 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/ and https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/new/ (about 118 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/llms.txt

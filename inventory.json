@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Hyundai Northshore",
-  "generated_at": "2026-11-16T22:37:51",
-  "vehicle_count": 108,
+  "generated_at": "2026-11-17T22:41:13",
+  "vehicle_count": 118,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -20,6 +20,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2021 Hyundai Santa Fe Hybrid Hybrid Preferred Trend | Low kms!",
+      "vin": "KM8S3DA16MU003512",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/2f6d3b784d5d.html",
+      "year": 2021,
+      "make": "Hyundai",
+      "model": "Santa Fe Hybrid Hybrid",
+      "condition": "used",
+      "price": 30988.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Ford Escape SEL | AWD | Low kms!",
       "vin": "1FMCU9H6XNUA95662",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/effc539e846b.html",
@@ -27,7 +38,18 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
-      "price": 22488.0,
+      "price": 21388.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Nissan Pathfinder SL | 8 Seater | Leather & Moonroof",
+      "vin": "5N1DR3CE7NC242656",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/e33007afd3bc.html",
+      "year": 2022,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "condition": "used",
+      "price": 34788.0,
       "price_currency": "CAD"
     },
     {
@@ -38,7 +60,18 @@
       "make": "Hyundai",
       "model": "IONIQ 6",
       "condition": "used",
-      "price": 33988.0,
+      "price": 32988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Hyundai Kona Essential AWD Local One Owner, Well maintained!",
+      "vin": "KM8HACAB4RU113761",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/ab7fff292e19.html",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used",
+      "price": 22988.0,
       "price_currency": "CAD"
     },
     {
@@ -49,7 +82,29 @@
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 33588.0,
+      "price": 33988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Hyundai Tucson Preferred Trend AWD | Leather | Moonroof",
+      "vin": "KM8JCCDE8RU329646",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/db6b88276ff5.html",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 30788.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Hyundai Kona Essential AWD Local One Owner, No Accidents!",
+      "vin": "KM8HACAB1SU263042",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/f7200611c3e8.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used",
+      "price": 26788.0,
       "price_currency": "CAD"
     },
     {
@@ -60,7 +115,29 @@
       "make": "Hyundai",
       "model": "Santa Fe Ultimate Calligraphy l DEMO CLEARANCE SPECIAL!",
       "condition": "used",
-      "price": 46688.0,
+      "price": 44988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Hyundai Tucson Preferred Trend | Leather & Moonroof | AWD",
+      "vin": "3KMJCCDE6SE025074",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/36410ea52e7f.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 30688.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Hyundai Tucson Preferred Trend | Leather | Moonroof | AWD",
+      "vin": "3KMJCCDE7SE025195",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/4d3fbb4399ca.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 30988.0,
       "price_currency": "CAD"
     },
     {
@@ -71,7 +148,7 @@
       "make": "Hyundai",
       "model": "Venue",
       "condition": "used",
-      "price": 20988.0,
+      "price": 18988.0,
       "price_currency": "CAD"
     },
     {
@@ -82,7 +159,7 @@
       "make": "Hyundai",
       "model": "Venue",
       "condition": "used",
-      "price": 21188.0,
+      "price": 18988.0,
       "price_currency": "CAD"
     },
     {
@@ -119,6 +196,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Mitsubishi Outlander ES AWD | 3rd row seating",
+      "vin": "JA4J4UA86SZ626892",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/07c636ea3a54.html",
+      "year": 2025,
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "condition": "used",
+      "price": 29488.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Hyundai Elantra Preferred | No Accident | Like New",
       "vin": "KMHLM4DG9TU206104",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/748132f6f372.html",
@@ -126,7 +214,18 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 22888.0,
+      "price": 23788.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Kona Electric Preferred EV | Android Auto & AppleCarplay",
+      "vin": "KM8HC3A68TU036459",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/ef55ec6b6e8b.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Kona Electric",
+      "condition": "used",
+      "price": 38988.0,
       "price_currency": "CAD"
     },
     {
@@ -137,7 +236,18 @@
       "make": "Hyundai",
       "model": "Palisade Hybrid",
       "condition": "used",
-      "price": 61088.0,
+      "price": 59488.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Venue Essential | Demo Special!",
+      "vin": "KMHRB8A34TU431846",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-northshore-mirror/used/12e2c9712f6b.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Venue",
+      "condition": "used",
+      "price": 22988.0,
       "price_currency": "CAD"
     },
     {
